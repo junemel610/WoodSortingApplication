@@ -1,0 +1,66 @@
+#
+# Runtime plugin versioning file for DeGirum
+#
+# File is structured as follows: {plugin_name:{OS:{architecture:[versions]}}}
+# Valid OS identifiers are [Debian, Windows, macOS, All]
+# Valid architecture identifiers are [x86, ARM, All]
+# Explicitly setting architecture to null will exclude the parent OS
+# IMPORTANT: LATEST SUPPORTED VERSION SHOULD BE LISTED FIRST
+# This file should be the single source of truth for runtime versioning
+#
+# Copyright DeGirum Corp. 2025
+#
+
+akida:
+  Debian:
+    All:
+      - "2.11.0"
+axelera:
+  Debian:
+    All:
+      - "1.3.3"
+deepx:
+  Debian:
+    All:
+      - "2.9.5"
+hailo:
+  Debian:
+    All:
+      - "4.22.0"
+      - "4.21.0"
+      - "4.20.0"
+      - "4.19.0"
+  Windows:
+    All:
+      - "4.20.0"
+memryx:
+  macOS:
+    null
+  All:
+    All:
+      - "1.2.3-1"
+onnx:
+  All:
+    All:
+      - "1.20.1"
+openvino:
+  macOS:
+      null
+  All:
+    x86:
+      - "2024.6.0"
+      - "2024.2.0"
+      - "2023.3.0"
+rknn:
+  Debian:
+    ARM:
+      - "2.3.0"
+tensorrt:
+  All:
+    All:
+      - "10.6"
+tflite:
+  All:
+    All:
+      - "2.14.0"
+      - "2.5.0"

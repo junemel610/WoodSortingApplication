@@ -1,0 +1,2 @@
+[console_scripts]
+degirum_tools = degirum_tools:_command_entrypoint

@@ -1,0 +1,13 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore sensitive configuration files
+config.json
+
+# Ignore reports
+report_*.txt
+*.pdf

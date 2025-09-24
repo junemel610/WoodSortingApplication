@@ -1,0 +1,10 @@
+{
+    "detection_threshold": 0.5,
+    "max_boxes":100,
+    "labels": [
+      "Dead Knots",
+      "Knots with Crack", 
+      "Live Knots",
+      "Missing Knots"
+    ]
+}

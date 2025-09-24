@@ -1,0 +1,1705 @@
+2025-08-27 12:16:46 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 12:16:48 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:16:50 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:16:52 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:16:54 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:16:56 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:16:58 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:17:00 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:17:02 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 12:17:04 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 12:17:06 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 12:17:08 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 12:17:11 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 12:17:13 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 12:17:15 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 12:17:17 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 12:17:19 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:17:21 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:17:23 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:17:25 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:17:27 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:17:29 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:22:07 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:22:43 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:22:45 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:22:47 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:22:49 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:22:53 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 12:22:58 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 12:23:00 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:23:02 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:23:04 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:23:06 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:23:08 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:23:10 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:23:12 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:23:14 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:23:17 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:23:19 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 12:23:21 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:23:23 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:23:25 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:23:27 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 12:23:29 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 12:23:31 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 12:23:33 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 12:23:35 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 12:23:37 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 12:23:39 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 12:23:41 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 12:23:43 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 12:23:46 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 12:23:48 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 12:23:50 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 12:23:52 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:23:54 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 12:23:56 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 12:23:58 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 12:24:00 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 12:24:02 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 12:24:04 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 12:24:06 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:24:08 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:24:10 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:24:12 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 12:24:14 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 12:24:16 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 12:24:18 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 12:24:20 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 12:24:22 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 12:24:24 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 12:24:26 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 12:24:28 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:24:30 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:24:32 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 12:24:35 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 12:24:37 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 12:24:39 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 12:24:41 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 12:24:43 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 12:24:46 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 12:24:47 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 12:24:48 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 12:24:50 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:24:50 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 12:34:15 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:34:39 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 12:34:41 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 12:34:43 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 12:34:45 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 12:34:47 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 12:34:51 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 12:34:53 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:34:55 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:34:57 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:34:59 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:35:01 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:35:03 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:35:05 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:35:08 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:35:10 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:35:12 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:35:14 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 12:35:16 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:38:22 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:38:24 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 12:38:26 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:38:28 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:38:30 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:38:32 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 12:38:34 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:38:36 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:38:38 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:38:40 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:38:42 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:38:44 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:38:47 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:38:49 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 12:38:51 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:38:53 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:38:55 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 12:38:57 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:38:59 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 12:39:01 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 12:39:03 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 12:39:05 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 12:39:07 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 12:39:09 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:39:11 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 12:39:13 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 12:39:15 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:39:17 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:39:19 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:39:21 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:39:23 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:39:26 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:39:28 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:39:30 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:39:32 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:39:34 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:39:36 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:39:38 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 12:39:40 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:47:38 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:47:40 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:47:42 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:47:44 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:47:46 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 12:47:48 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:47:50 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:47:52 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:55:01 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 12:55:04 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 12:55:06 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 12:55:08 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 12:55:11 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:55:13 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 12:55:18 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 12:55:20 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 12:55:22 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 12:55:24 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 12:55:26 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 12:55:28 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:55:30 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:55:32 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 12:55:34 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 12:55:36 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 12:55:38 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 12:55:40 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:55:42 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:55:44 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 12:55:46 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 12:55:48 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 12:55:50 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 12:55:52 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:55:54 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:55:56 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:55:58 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:56:00 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:56:03 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 12:56:05 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:03:32 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:04:05 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:04:07 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:04:10 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:04:12 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:04:14 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:04:16 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 13:04:18 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 13:04:20 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 13:04:23 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 13:04:25 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:04:27 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:04:29 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:04:31 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 13:04:33 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:04:35 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 13:04:37 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:04:39 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:04:41 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:04:43 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 13:04:45 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 13:04:47 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:04:49 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:04:51 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:04:53 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 13:04:56 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:05:09 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:05:12 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:05:14 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:05:16 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:05:18 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:05:20 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:05:22 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:05:24 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:05:26 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:05:28 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:05:30 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:05:32 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:05:34 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:05:36 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:05:39 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:05:41 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:05:43 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:05:45 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:05:47 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:05:49 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 13:05:51 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:05:53 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:05:55 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:05:57 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:05:59 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:06:01 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:06:03 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 13:06:05 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:07:16 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:07:18 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:07:20 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:07:22 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:07:24 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 13:07:26 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:07:29 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:07:31 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:07:33 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:07:35 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:07:37 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:07:39 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:07:41 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:07:43 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:07:45 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:07:47 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:07:49 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:07:51 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:10:37 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:10:39 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:10:41 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:10:43 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:10:46 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 13:10:48 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:10:50 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 13:10:52 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:10:54 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:10:56 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:10:58 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 13:11:00 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:11:03 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:11:09 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:11:13 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:11:15 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:11:17 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 13:11:19 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:11:21 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:11:23 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:11:25 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:11:27 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:11:30 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:11:32 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:11:34 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:11:36 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:11:38 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 13:11:40 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 13:11:42 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:11:45 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:11:47 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 13:11:49 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 13:11:51 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:17:37 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:17:40 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:17:42 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:17:45 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:17:47 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 13:17:49 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 13:17:51 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 13:17:55 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:17:58 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:18:00 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:18:02 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 13:18:05 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:18:09 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:18:12 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:20:09 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:20:11 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:20:13 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:20:16 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:20:18 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:20:20 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:20:22 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:20:24 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:20:26 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:20:28 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:20:30 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:20:33 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:20:35 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 13:20:37 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:20:40 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:20:42 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:20:44 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 13:20:46 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:20:49 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:20:51 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:20:53 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:20:55 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:20:59 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:21:01 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:21:03 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:21:05 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:21:07 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:21:10 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:21:12 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:21:14 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:21:17 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:21:19 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 13:21:21 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:21:23 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:21:26 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:21:28 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 13:21:30 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:21:32 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 13:21:34 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:21:37 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:21:39 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:21:41 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:21:44 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:21:46 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 13:21:48 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 13:21:51 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:21:53 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:21:56 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:21:58 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:22:01 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:22:04 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:22:06 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:24:45 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:39:51 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:39:56 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:39:59 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:40:02 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:40:10 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:40:12 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:40:14 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:40:16 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:40:18 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:40:20 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:40:22 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:40:25 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:40:27 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:40:29 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:40:32 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:40:34 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:40:36 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:40:38 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:40:40 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:40:42 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:40:44 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 13:40:46 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 13:40:48 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:40:51 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 13:40:53 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:40:55 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:40:57 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:40:59 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:41:02 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:41:04 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 13:41:06 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 13:41:08 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:41:10 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:41:12 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:41:15 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:41:17 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:41:19 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:41:21 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:41:23 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:41:25 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:41:28 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:41:30 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:41:32 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:41:34 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:41:37 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:41:39 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:41:41 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:41:43 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:41:45 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:41:47 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:41:49 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:41:51 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:41:53 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:41:55 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:41:57 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:41:59 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:42:02 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:42:04 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:42:06 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:42:08 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:42:10 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:42:12 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:42:15 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:42:17 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:42:19 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:42:21 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:42:23 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:42:25 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:42:28 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:42:30 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:42:32 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:42:34 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:42:37 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:42:39 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:42:41 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:42:43 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:42:46 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:42:48 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:42:50 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:42:52 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:42:55 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:42:57 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:43:00 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:43:02 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:43:04 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:43:06 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:43:08 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:43:10 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:43:12 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:43:14 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:43:16 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 13:43:19 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:43:21 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:43:23 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:43:25 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:43:27 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:43:30 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:43:31 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:43:34 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:43:36 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:43:38 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:43:40 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:43:42 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:43:44 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:43:47 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:43:49 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:43:51 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:43:53 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:43:55 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:43:57 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:43:59 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:44:02 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:44:04 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:44:06 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:44:08 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:44:10 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:44:13 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:44:15 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:44:17 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:44:19 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:44:21 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:44:24 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:44:26 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:44:28 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:44:30 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:44:32 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:44:35 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:44:37 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:44:39 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:44:41 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:44:44 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:44:46 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:44:48 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:44:50 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:44:52 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:44:54 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:44:56 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:44:59 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:45:01 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:45:03 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:45:05 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:45:07 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:45:10 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:45:12 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:45:14 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:45:16 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:45:19 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:45:21 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:45:24 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:45:26 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:45:28 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:45:30 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:45:32 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:45:35 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:45:37 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:45:39 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:45:41 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:45:43 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:45:45 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:45:47 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:45:50 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:45:52 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:45:54 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:45:56 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:45:58 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:46:00 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:46:03 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:46:05 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:46:07 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:46:09 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:46:11 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:46:13 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:46:16 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:46:18 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:46:20 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:47:09 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:49:06 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:49:08 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:49:10 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:49:13 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:49:15 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:49:17 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:49:19 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-27 13:49:22 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:49:24 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 13:49:27 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 13:49:29 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 13:49:31 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-27 13:49:33 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 13:49:35 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 13:49:37 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 13:49:39 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:49:42 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 13:49:44 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 13:49:46 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 13:49:48 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-27 13:49:50 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 13:49:53 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 13:51:25 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-27 13:52:53 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-28 04:19:17 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-28 04:19:19 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 04:19:21 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 04:19:23 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-28 04:19:25 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 04:19:27 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 04:19:30 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 04:19:32 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 04:19:42 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 04:19:44 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 04:19:46 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 04:19:48 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 04:19:51 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:19:53 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:19:55 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:19:57 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 04:19:59 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 04:20:01 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:20:04 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:20:06 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:20:08 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:20:10 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:20:12 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:20:14 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:20:16 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 04:20:19 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 04:20:21 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 04:20:23 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 04:20:25 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 04:20:29 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 04:20:31 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 04:20:33 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 04:20:35 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 04:20:37 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 04:20:39 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 04:20:42 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 04:20:44 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 04:20:47 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:20:49 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:20:51 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 04:20:53 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:20:56 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:20:58 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-28 04:21:02 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-28 04:21:04 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:21:07 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:21:09 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 04:21:12 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:21:14 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:21:16 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:21:18 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:21:20 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 04:21:22 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 04:21:24 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 04:21:26 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 04:21:28 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 04:21:31 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 04:21:34 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:21:36 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:21:38 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 04:21:40 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 04:21:42 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 04:21:44 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 04:21:46 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-28 04:21:49 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 04:21:51 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:21:53 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 04:21:55 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-28 04:21:57 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-28 04:21:59 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-28 04:22:01 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-28 04:22:04 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:22:06 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 04:22:08 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:22:10 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 04:22:12 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-28 04:22:14 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-28 04:22:16 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-28 04:22:19 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:22:21 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-28 04:22:23 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-28 04:22:25 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-28 04:22:27 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-28 04:22:29 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-28 04:22:31 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-28 04:22:34 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:22:36 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-28 04:22:38 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 04:22:40 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:22:42 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-28 04:22:44 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-28 04:22:47 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:22:49 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-28 04:22:51 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-28 04:22:53 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 04:22:57 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:22:59 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 04:23:01 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 04:23:03 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-28 04:23:05 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 04:23:07 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-28 04:23:09 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 04:23:11 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:23:13 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:23:16 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:23:18 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 04:23:20 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 04:23:22 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 04:23:24 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 04:23:27 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:23:29 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:23:32 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:23:35 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 04:23:37 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:23:39 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 04:23:42 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:23:44 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:23:46 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:23:48 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:23:50 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:23:52 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 04:23:55 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 04:23:57 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:23:59 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 04:24:02 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 04:24:04 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 04:24:06 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 04:24:13 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:24:15 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:24:18 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:24:25 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 04:24:27 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:24:29 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 04:24:31 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 04:24:33 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 04:24:36 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 04:24:38 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:24:40 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 04:24:42 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:24:45 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 04:24:48 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 04:24:51 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 04:24:54 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 04:24:57 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 04:24:59 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 04:25:03 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 04:39:37 - Manual grade trigger activated
+2025-08-28 04:39:39 - Manual grade trigger activated
+2025-08-28 05:26:24 - Automatic detection started - IR beam triggered
+2025-08-28 05:26:39 - Automatic detection started - IR beam triggered
+2025-08-28 05:26:59 - Automatic detection started - IR beam triggered
+2025-08-28 06:47:34 - Automatic detection started - IR beam triggered
+2025-08-28 06:47:54 - Automatic detection started - IR beam triggered
+2025-08-28 06:47:59 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 06:48:01 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 06:48:04 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 06:48:06 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 06:48:08 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 06:48:11 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 06:48:13 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 06:48:13 - Manual grade trigger activated
+2025-08-28 06:48:13 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 06:48:14 - Manual grade trigger activated
+2025-08-28 06:48:14 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 06:48:15 - Manual grade trigger activated
+2025-08-28 06:48:15 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 06:48:15 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 06:48:15 - Manual grade trigger activated
+2025-08-28 06:48:15 - ERROR: Error sending sophisticated grade to Arduino: write failed: [Errno 5] Input/output error
+2025-08-28 06:48:17 - Manual grade trigger activated
+2025-08-28 06:48:17 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 06:48:18 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 06:48:20 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 06:48:22 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 06:48:24 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 06:48:26 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 06:48:28 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 06:48:43 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 06:48:45 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 06:48:47 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 06:48:49 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 06:48:51 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 06:48:53 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 06:48:56 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 06:48:58 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 06:49:00 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 06:49:02 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 06:49:15 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 06:49:17 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 06:49:19 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 06:49:22 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 06:50:04 - Manual grade trigger activated
+2025-08-28 06:50:04 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 06:50:05 - Manual grade trigger activated
+2025-08-28 06:50:05 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 06:50:06 - Manual grade trigger activated
+2025-08-28 06:50:06 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 06:50:07 - Manual grade trigger activated
+2025-08-28 06:50:07 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 06:50:07 - Manual grade trigger activated
+2025-08-28 06:50:07 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 06:50:08 - Manual grade trigger activated
+2025-08-28 06:50:08 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 06:50:09 - Manual grade trigger activated
+2025-08-28 06:50:09 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 06:50:59 - Automatic detection started - IR beam triggered
+2025-08-28 06:51:29 - Automatic detection started - IR beam triggered
+2025-08-28 06:51:39 - Automatic detection started - IR beam triggered
+2025-08-28 06:51:49 - Manual grade trigger activated
+2025-08-28 06:51:50 - Manual grade trigger activated
+2025-08-28 06:51:51 - Manual grade trigger activated
+2025-08-28 06:51:54 - Automatic detection started - IR beam triggered
+2025-08-28 06:52:19 - Automatic detection started - IR beam triggered
+2025-08-28 06:52:39 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 06:52:41 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 06:52:43 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 06:52:44 - Automatic detection started - IR beam triggered
+2025-08-28 06:52:46 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 06:52:48 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 06:52:50 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 06:52:52 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 06:52:54 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 06:52:56 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 06:52:58 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 06:53:00 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 06:53:02 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 06:53:04 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 06:53:04 - Automatic detection started - IR beam triggered
+2025-08-28 06:53:06 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 06:53:08 - SS-EN 1611-1 Grade G2-1 -> Arduino command '1'
+2025-08-28 06:53:11 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 06:53:13 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 06:53:15 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 06:53:17 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 06:53:19 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 06:53:21 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 06:53:24 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 06:53:26 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 06:53:29 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 06:53:29 - Automatic detection started - IR beam triggered
+2025-08-28 06:53:31 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 06:53:33 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 06:53:36 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 06:53:38 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 06:53:40 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 06:53:42 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 06:53:44 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 06:53:45 - Automatic detection started - IR beam triggered
+2025-08-28 06:53:46 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 06:53:48 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 06:53:51 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 06:53:53 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 06:54:10 - Automatic detection started - IR beam triggered
+2025-08-28 06:54:45 - Automatic detection started - IR beam triggered
+2025-08-28 06:55:40 - Automatic detection started - IR beam triggered
+2025-08-28 06:56:06 - Automatic detection started - IR beam triggered
+2025-08-28 06:56:36 - Automatic detection started - IR beam triggered
+2025-08-28 06:56:45 - Automatic detection started - IR beam triggered
+2025-08-28 07:07:22 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 07:07:24 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 07:07:25 - Automatic detection started - IR beam triggered
+2025-08-28 07:07:26 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 07:07:28 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 07:07:30 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 07:07:32 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 07:07:59 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 07:08:00 - Automatic detection started - IR beam triggered
+2025-08-28 07:08:01 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 07:08:03 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 07:08:06 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 07:08:55 - Automatic detection started - IR beam triggered
+2025-08-28 07:09:25 - Automatic detection started - IR beam triggered
+2025-08-28 07:09:55 - Automatic detection started - IR beam triggered
+2025-08-28 07:10:15 - Automatic detection started - IR beam triggered
+2025-08-28 07:10:26 - Automatic detection started - IR beam triggered
+2025-08-28 07:10:46 - Automatic detection started - IR beam triggered
+2025-08-28 07:11:01 - Automatic detection started - IR beam triggered
+2025-08-28 07:11:26 - Automatic detection started - IR beam triggered
+2025-08-28 07:11:51 - Automatic detection started - IR beam triggered
+2025-08-28 07:12:06 - Automatic detection started - IR beam triggered
+2025-08-28 07:12:21 - Automatic detection started - IR beam triggered
+2025-08-28 07:12:36 - Automatic detection started - IR beam triggered
+2025-08-28 07:12:46 - Automatic detection started - IR beam triggered
+2025-08-28 07:13:11 - Automatic detection started - IR beam triggered
+2025-08-28 07:13:42 - Automatic detection started - IR beam triggered
+2025-08-28 07:14:12 - Automatic detection started - IR beam triggered
+2025-08-28 07:14:47 - Automatic detection started - IR beam triggered
+2025-08-28 07:14:57 - Automatic detection started - IR beam triggered
+2025-08-28 07:15:22 - Automatic detection started - IR beam triggered
+2025-08-28 07:15:47 - Automatic detection started - IR beam triggered
+2025-08-28 07:16:17 - Automatic detection started - IR beam triggered
+2025-08-28 07:16:37 - Automatic detection started - IR beam triggered
+2025-08-28 07:17:02 - Automatic detection started - IR beam triggered
+2025-08-28 07:17:17 - Automatic detection started - IR beam triggered
+2025-08-28 07:17:38 - Automatic detection started - IR beam triggered
+2025-08-28 07:17:48 - Automatic detection started - IR beam triggered
+2025-08-28 07:29:52 - Automatic detection started - IR beam triggered
+2025-08-28 07:30:17 - Automatic detection started - IR beam triggered
+2025-08-28 07:31:14 - Automatic detection started - IR beam triggered
+2025-08-28 07:31:24 - Automatic detection started - IR beam triggered
+2025-08-28 07:31:34 - Automatic detection started - IR beam triggered
+2025-08-28 07:32:05 - Automatic detection started - IR beam triggered
+2025-08-28 07:32:11 - SS-EN 1611-1 Grade G2-2 -> Arduino command '2'
+2025-08-28 07:32:14 - SS-EN 1611-1 Grade G2-4 -> Arduino command '3'
+2025-08-28 07:32:16 - SS-EN 1611-1 Grade G2-3 -> Arduino command '2'
+2025-08-28 07:37:52 - Automatic detection started - IR beam triggered
+2025-08-28 07:38:17 - Automatic detection started - IR beam triggered
+2025-08-28 07:38:42 - Automatic detection started - IR beam triggered
+2025-08-28 07:38:57 - Automatic detection started - IR beam triggered
+2025-08-28 07:39:28 - Automatic detection started - IR beam triggered
+2025-08-28 07:39:53 - Automatic detection started - IR beam triggered
+2025-08-28 07:40:08 - Automatic detection started - IR beam triggered
+2025-08-28 07:40:18 - Automatic detection started - IR beam triggered
+2025-08-28 07:40:43 - Automatic detection started - IR beam triggered
+2025-08-28 07:41:13 - Automatic detection started - IR beam triggered
+2025-08-28 07:41:38 - Automatic detection started - IR beam triggered
+2025-08-28 07:41:58 - Automatic detection started - IR beam triggered
+2025-08-28 07:42:29 - Automatic detection started - IR beam triggered
+2025-08-28 07:42:44 - Automatic detection started - IR beam triggered
+2025-08-28 07:42:54 - Automatic detection started - IR beam triggered
+2025-08-28 07:43:19 - Automatic detection started - IR beam triggered
+2025-08-28 07:43:29 - Automatic detection started - IR beam triggered
+2025-08-28 07:43:39 - Automatic detection started - IR beam triggered
+2025-08-28 07:44:34 - Automatic detection started - IR beam triggered
+2025-08-28 07:44:59 - Automatic detection started - IR beam triggered
+2025-08-28 07:45:19 - Automatic detection started - IR beam triggered
+2025-08-28 07:45:35 - Automatic detection started - IR beam triggered
+2025-08-28 07:46:05 - Automatic detection started - IR beam triggered
+2025-08-28 07:46:15 - Automatic detection started - IR beam triggered
+2025-08-28 07:46:30 - Automatic detection started - IR beam triggered
+2025-08-28 07:46:50 - Automatic detection started - IR beam triggered
+2025-08-28 07:47:05 - Automatic detection started - IR beam triggered
+2025-08-28 07:47:15 - Automatic detection started - IR beam triggered
+2025-08-28 07:47:35 - Automatic detection started - IR beam triggered
+2025-08-28 07:47:45 - Automatic detection started - IR beam triggered
+2025-08-28 07:47:55 - Automatic detection started - IR beam triggered
+2025-08-28 07:48:05 - Automatic detection started - IR beam triggered
+2025-08-28 07:48:15 - Automatic detection started - IR beam triggered
+2025-08-28 07:49:01 - Automatic detection started - IR beam triggered
+2025-08-28 07:49:11 - Automatic detection started - IR beam triggered
+2025-08-28 07:49:36 - Automatic detection started - IR beam triggered
+2025-08-28 07:49:51 - Automatic detection started - IR beam triggered
+2025-08-28 07:50:06 - Automatic detection started - IR beam triggered
+2025-08-28 07:50:21 - Automatic detection started - IR beam triggered
+2025-08-28 07:50:36 - Automatic detection started - IR beam triggered
+2025-08-28 07:51:01 - Automatic detection started - IR beam triggered
+2025-08-28 07:51:21 - Automatic detection started - IR beam triggered
+2025-08-28 07:51:36 - Automatic detection started - IR beam triggered
+2025-08-28 07:51:51 - Automatic detection started - IR beam triggered
+2025-08-28 07:52:47 - Automatic detection started - IR beam triggered
+2025-08-28 07:53:02 - Automatic detection started - IR beam triggered
+2025-08-28 07:53:12 - Automatic detection started - IR beam triggered
+2025-08-28 07:56:53 - Graded Piece #1 as G2-2 -> Arduino Cmd: 2
+2025-08-28 07:56:55 - Automatic detection started - IR beam triggered
+2025-08-28 07:56:55 - Graded Piece #2 as G2-4 -> Arduino Cmd: 3
+2025-08-28 07:56:58 - Graded Piece #3 as G2-4 -> Arduino Cmd: 3
+2025-08-28 07:57:00 - Graded Piece #4 as G2-4 -> Arduino Cmd: 3
+2025-08-28 07:57:00 - Graded Piece #5 as G2-4 -> Arduino Cmd: 3
+2025-08-28 07:57:02 - Graded Piece #6 as G2-3 -> Arduino Cmd: 2
+2025-08-28 07:57:19 - Graded Piece #7 as G2-4 -> Arduino Cmd: 3
+2025-08-28 07:57:21 - Graded Piece #8 as G2-4 -> Arduino Cmd: 3
+2025-08-28 07:57:54 - Graded Piece #9 as G2-1 -> Arduino Cmd: 1
+2025-08-28 07:57:55 - Automatic detection started - IR beam triggered
+2025-08-28 07:57:56 - Graded Piece #10 as G2-1 -> Arduino Cmd: 1
+2025-08-28 07:57:58 - Graded Piece #11 as G2-2 -> Arduino Cmd: 2
+2025-08-28 07:58:00 - Graded Piece #12 as G2-2 -> Arduino Cmd: 2
+2025-08-28 07:58:02 - Graded Piece #13 as G2-2 -> Arduino Cmd: 2
+2025-08-28 07:58:04 - Graded Piece #14 as G2-1 -> Arduino Cmd: 1
+2025-08-28 07:58:07 - Graded Piece #15 as G2-1 -> Arduino Cmd: 1
+2025-08-28 07:58:09 - Graded Piece #16 as G2-1 -> Arduino Cmd: 1
+2025-08-28 07:58:10 - Graded Piece #17 as G2-4 -> Arduino Cmd: 3
+2025-08-28 07:58:11 - Graded Piece #18 as G2-1 -> Arduino Cmd: 1
+2025-08-28 07:58:13 - Graded Piece #19 as G2-1 -> Arduino Cmd: 1
+2025-08-28 07:58:16 - Graded Piece #20 as G2-1 -> Arduino Cmd: 1
+2025-08-28 07:58:18 - Graded Piece #21 as G2-1 -> Arduino Cmd: 1
+2025-08-28 07:58:20 - Graded Piece #22 as G2-1 -> Arduino Cmd: 1
+2025-08-28 07:58:22 - Graded Piece #23 as G2-1 -> Arduino Cmd: 1
+2025-08-28 07:58:24 - Graded Piece #24 as G2-3 -> Arduino Cmd: 2
+2025-08-28 07:58:25 - Automatic detection started - IR beam triggered
+2025-08-28 07:58:26 - Graded Piece #25 as G2-3 -> Arduino Cmd: 2
+2025-08-28 07:58:28 - Graded Piece #26 as G2-4 -> Arduino Cmd: 3
+2025-08-28 07:58:30 - Graded Piece #27 as G2-4 -> Arduino Cmd: 3
+2025-08-28 07:58:30 - Graded Piece #28 as G2-3 -> Arduino Cmd: 2
+2025-08-28 07:58:33 - Graded Piece #29 as G2-4 -> Arduino Cmd: 3
+2025-08-28 07:58:35 - Graded Piece #30 as G2-4 -> Arduino Cmd: 3
+2025-08-28 07:58:37 - Graded Piece #31 as G2-4 -> Arduino Cmd: 3
+2025-08-28 07:58:39 - Graded Piece #32 as G2-4 -> Arduino Cmd: 3
+2025-08-28 07:58:40 - Automatic detection started - IR beam triggered
+2025-08-28 07:58:41 - Graded Piece #33 as G2-2 -> Arduino Cmd: 2
+2025-08-28 07:58:43 - Graded Piece #34 as G2-2 -> Arduino Cmd: 2
+2025-08-28 07:58:45 - Graded Piece #35 as G2-4 -> Arduino Cmd: 3
+2025-08-28 07:58:45 - Graded Piece #36 as G2-2 -> Arduino Cmd: 2
+2025-08-28 07:58:47 - Graded Piece #37 as G2-2 -> Arduino Cmd: 2
+2025-08-28 07:58:50 - Graded Piece #38 as G2-2 -> Arduino Cmd: 2
+2025-08-28 07:58:52 - Graded Piece #39 as G2-4 -> Arduino Cmd: 3
+2025-08-28 07:58:54 - Graded Piece #40 as G2-2 -> Arduino Cmd: 2
+2025-08-28 07:58:55 - Automatic detection started - IR beam triggered
+2025-08-28 07:58:56 - Graded Piece #41 as G2-2 -> Arduino Cmd: 2
+2025-08-28 07:58:58 - Graded Piece #42 as G2-2 -> Arduino Cmd: 2
+2025-08-28 07:59:00 - Graded Piece #43 as G2-3 -> Arduino Cmd: 2
+2025-08-28 07:59:00 - Graded Piece #44 as G2-4 -> Arduino Cmd: 3
+2025-08-28 07:59:02 - Graded Piece #45 as G2-2 -> Arduino Cmd: 2
+2025-08-28 07:59:04 - Graded Piece #46 as G2-2 -> Arduino Cmd: 2
+2025-08-28 07:59:07 - Graded Piece #47 as G2-4 -> Arduino Cmd: 3
+2025-08-28 07:59:09 - Graded Piece #48 as G2-2 -> Arduino Cmd: 2
+2025-08-28 07:59:11 - Graded Piece #49 as G2-2 -> Arduino Cmd: 2
+2025-08-28 07:59:13 - Graded Piece #50 as G2-2 -> Arduino Cmd: 2
+2025-08-28 07:59:16 - Graded Piece #51 as G2-2 -> Arduino Cmd: 2
+2025-08-28 07:59:18 - Graded Piece #52 as G2-2 -> Arduino Cmd: 2
+2025-08-28 07:59:20 - Graded Piece #53 as G2-2 -> Arduino Cmd: 2
+2025-08-28 07:59:22 - Graded Piece #54 as G2-2 -> Arduino Cmd: 2
+2025-08-28 07:59:24 - Graded Piece #55 as G2-4 -> Arduino Cmd: 3
+2025-08-28 07:59:27 - Graded Piece #56 as G2-2 -> Arduino Cmd: 2
+2025-08-28 07:59:29 - Graded Piece #57 as G2-3 -> Arduino Cmd: 2
+2025-08-28 07:59:32 - Graded Piece #58 as G2-3 -> Arduino Cmd: 2
+2025-08-28 07:59:34 - Graded Piece #59 as G2-3 -> Arduino Cmd: 2
+2025-08-28 07:59:36 - Automatic detection started - IR beam triggered
+2025-08-28 07:59:36 - Graded Piece #60 as G2-2 -> Arduino Cmd: 2
+2025-08-28 07:59:39 - Graded Piece #61 as G2-3 -> Arduino Cmd: 2
+2025-08-28 07:59:41 - Graded Piece #62 as G2-4 -> Arduino Cmd: 3
+2025-08-28 07:59:43 - Graded Piece #63 as G2-2 -> Arduino Cmd: 2
+2025-08-28 07:59:49 - Graded Piece #64 as G2-4 -> Arduino Cmd: 3
+2025-08-28 07:59:51 - Automatic detection started - IR beam triggered
+2025-08-28 07:59:51 - Graded Piece #65 as G2-4 -> Arduino Cmd: 3
+2025-08-28 07:59:53 - Graded Piece #66 as G2-2 -> Arduino Cmd: 2
+2025-08-28 07:59:56 - Graded Piece #67 as G2-3 -> Arduino Cmd: 2
+2025-08-28 07:59:56 - Graded Piece #68 as G2-4 -> Arduino Cmd: 3
+2025-08-28 07:59:58 - Graded Piece #69 as G2-3 -> Arduino Cmd: 2
+2025-08-28 08:00:00 - Graded Piece #70 as G2-3 -> Arduino Cmd: 2
+2025-08-28 08:00:01 - Automatic detection started - IR beam triggered
+2025-08-28 08:00:02 - Graded Piece #71 as G2-3 -> Arduino Cmd: 2
+2025-08-28 08:00:04 - Graded Piece #72 as G2-2 -> Arduino Cmd: 2
+2025-08-28 08:00:06 - Graded Piece #73 as G2-3 -> Arduino Cmd: 2
+2025-08-28 08:00:09 - Graded Piece #74 as G2-3 -> Arduino Cmd: 2
+2025-08-28 08:00:11 - Graded Piece #75 as G2-4 -> Arduino Cmd: 3
+2025-08-28 08:00:11 - Graded Piece #76 as G2-3 -> Arduino Cmd: 2
+2025-08-28 08:00:18 - Graded Piece #77 as G2-3 -> Arduino Cmd: 2
+2025-08-28 08:00:20 - Graded Piece #78 as G2-4 -> Arduino Cmd: 3
+2025-08-28 08:00:22 - Graded Piece #79 as G2-2 -> Arduino Cmd: 2
+2025-08-28 08:00:33 - Graded Piece #80 as G2-3 -> Arduino Cmd: 2
+2025-08-28 08:00:35 - Graded Piece #81 as G2-3 -> Arduino Cmd: 2
+2025-08-28 08:00:50 - Graded Piece #1 as G2-4 -> Arduino Cmd: 3
+2025-08-28 08:01:18 - Automatic detection started - IR beam triggered
+2025-08-28 08:01:18 - Graded Piece #1 as G2-2 -> Arduino Cmd: 2
+2025-08-28 08:01:20 - Graded Piece #2 as G2-2 -> Arduino Cmd: 2
+2025-08-28 08:01:23 - Graded Piece #3 as G2-4 -> Arduino Cmd: 3
+2025-08-28 08:01:29 - Graded Piece #4 as G2-3 -> Arduino Cmd: 2
+2025-08-28 08:01:31 - Graded Piece #5 as G2-3 -> Arduino Cmd: 2
+2025-08-28 08:01:35 - Graded Piece #6 as G2-2 -> Arduino Cmd: 2
+2025-08-28 08:01:37 - Graded Piece #7 as G2-3 -> Arduino Cmd: 2
+2025-08-28 08:01:40 - Graded Piece #8 as G2-3 -> Arduino Cmd: 2
+2025-08-28 08:01:42 - Graded Piece #9 as G2-2 -> Arduino Cmd: 2
+2025-08-28 08:01:44 - Graded Piece #10 as G2-3 -> Arduino Cmd: 2
+2025-08-28 08:01:46 - Graded Piece #11 as G2-3 -> Arduino Cmd: 2
+2025-08-28 08:01:48 - Graded Piece #12 as G2-4 -> Arduino Cmd: 3
+2025-08-28 08:01:51 - Graded Piece #13 as G2-3 -> Arduino Cmd: 2
+2025-08-28 08:01:53 - Graded Piece #14 as G2-4 -> Arduino Cmd: 3
+2025-08-28 08:01:55 - Graded Piece #15 as G2-2 -> Arduino Cmd: 2
+2025-08-28 08:01:57 - Graded Piece #16 as G2-2 -> Arduino Cmd: 2
+2025-08-28 08:02:08 - Automatic detection started - IR beam triggered
+2025-08-28 08:02:19 - Graded Piece #17 as G2-2 -> Arduino Cmd: 2
+2025-08-28 08:02:24 - Graded Piece #18 as G2-4 -> Arduino Cmd: 3
+2025-08-28 08:02:29 - Automatic detection started - IR beam triggered
+2025-08-28 08:02:39 - Graded Piece #19 as G2-4 -> Arduino Cmd: 3
+2025-08-28 08:02:44 - Automatic detection started - IR beam triggered
+2025-08-28 08:02:54 - Graded Piece #20 as G2-4 -> Arduino Cmd: 3
+2025-08-28 08:03:12 - Graded Piece #21 as G2-2 -> Arduino Cmd: 2
+2025-08-28 08:03:14 - Automatic detection started - IR beam triggered
+2025-08-28 08:03:14 - Graded Piece #22 as G2-3 -> Arduino Cmd: 2
+2025-08-28 08:03:16 - Graded Piece #23 as G2-3 -> Arduino Cmd: 2
+2025-08-28 08:03:19 - Graded Piece #24 as G2-4 -> Arduino Cmd: 3
+2025-08-28 08:14:25 - Automatic detection started - IR beam triggered
+2025-08-28 08:14:30 - Graded Piece #1 as G2-4 -> Arduino Cmd: 3
+2025-08-28 08:29:16 - Automatic detection started - IR beam triggered
+2025-08-28 08:29:22 - Graded Piece #1 as G2-2 -> Arduino Cmd: 2
+2025-08-28 08:29:25 - Graded Piece #2 as G2-2 -> Arduino Cmd: 2
+2025-08-28 08:29:26 - Graded Piece #3 as G2-4 -> Arduino Cmd: 3
+2025-08-28 08:29:31 - Automatic detection started - IR beam triggered
+2025-08-28 08:29:41 - Graded Piece #4 as G2-4 -> Arduino Cmd: 3
+2025-08-28 08:30:24 - Automatic detection started - IR beam triggered
+2025-08-28 08:30:29 - Graded Piece #1 as G2-4 -> Arduino Cmd: 3
+2025-08-28 08:31:12 - Automatic detection started - IR beam triggered
+2025-08-28 08:47:19 - Graded Piece #1 as G2-2 -> Arduino Cmd: 2
+2025-08-28 08:47:21 - Graded Piece #2 as G2-3 -> Arduino Cmd: 2
+2025-08-28 08:47:23 - Graded Piece #3 as G2-3 -> Arduino Cmd: 2
+2025-08-28 08:47:26 - Graded Piece #4 as G2-3 -> Arduino Cmd: 2
+2025-08-28 08:47:28 - Graded Piece #5 as G2-3 -> Arduino Cmd: 2
+2025-08-28 08:47:31 - Automatic detection started - IR beam triggered
+2025-08-28 08:47:42 - Graded Piece #6 as G2-4 -> Arduino Cmd: 3
+2025-08-28 08:47:44 - Graded Piece #7 as G2-2 -> Arduino Cmd: 2
+2025-08-28 08:47:46 - Graded Piece #8 as G2-4 -> Arduino Cmd: 3
+2025-08-28 08:47:47 - Graded Piece #9 as G2-4 -> Arduino Cmd: 3
+2025-08-28 08:47:49 - Graded Piece #10 as G2-2 -> Arduino Cmd: 2
+2025-08-28 08:47:51 - Automatic detection started - IR beam triggered
+2025-08-28 08:47:51 - Graded Piece #11 as G2-3 -> Arduino Cmd: 2
+2025-08-28 08:47:53 - Graded Piece #12 as G2-3 -> Arduino Cmd: 2
+2025-08-28 08:47:55 - Graded Piece #13 as G2-2 -> Arduino Cmd: 2
+2025-08-28 08:47:56 - Graded Piece #14 as G2-4 -> Arduino Cmd: 3
+2025-08-28 08:47:58 - Graded Piece #15 as G2-3 -> Arduino Cmd: 2
+2025-08-28 08:48:00 - Graded Piece #16 as G2-4 -> Arduino Cmd: 3
+2025-08-28 08:48:02 - Graded Piece #17 as G2-2 -> Arduino Cmd: 2
+2025-08-28 08:48:05 - Graded Piece #18 as G2-3 -> Arduino Cmd: 2
+2025-08-28 08:48:07 - Graded Piece #19 as G2-4 -> Arduino Cmd: 3
+2025-08-28 08:48:09 - Graded Piece #20 as G2-3 -> Arduino Cmd: 2
+2025-08-28 08:48:11 - Automatic detection started - IR beam triggered
+2025-08-28 08:48:11 - Graded Piece #21 as G2-3 -> Arduino Cmd: 2
+2025-08-28 08:48:13 - Graded Piece #22 as G2-3 -> Arduino Cmd: 2
+2025-08-28 08:48:15 - Graded Piece #23 as G2-3 -> Arduino Cmd: 2
+2025-08-28 08:48:16 - Graded Piece #24 as G2-4 -> Arduino Cmd: 3
+2025-08-28 08:48:18 - Graded Piece #25 as G2-3 -> Arduino Cmd: 2
+2025-08-28 09:03:55 - Automatic detection started - IR beam triggered
+2025-08-28 09:03:57 - Graded Piece #1 as G2-3 -> Arduino Cmd: 2
+2025-08-28 09:03:59 - Graded Piece #2 as G2-2 -> Arduino Cmd: 2
+2025-08-28 09:04:00 - Graded Piece #3 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:04:01 - Graded Piece #4 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:04:03 - Graded Piece #5 as G2-2 -> Arduino Cmd: 2
+2025-08-28 09:04:10 - Automatic detection started - IR beam triggered
+2025-08-28 09:04:20 - Graded Piece #6 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:13:33 - Automatic detection started - IR beam triggered
+2025-08-28 09:13:38 - Graded Piece #1 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:13:48 - Automatic detection started - IR beam triggered
+2025-08-28 09:13:53 - Graded Piece #2 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:14:18 - Automatic detection started - IR beam triggered
+2025-08-28 09:14:23 - Graded Piece #3 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:14:43 - Automatic detection started - IR beam triggered
+2025-08-28 09:14:59 - Graded Piece #4 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:15:09 - Automatic detection started - IR beam triggered
+2025-08-28 09:15:14 - Graded Piece #5 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:15:24 - Automatic detection started - IR beam triggered
+2025-08-28 09:15:29 - Graded Piece #6 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:15:34 - Automatic detection started - IR beam triggered
+2025-08-28 09:15:39 - Graded Piece #7 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:15:44 - Automatic detection started - IR beam triggered
+2025-08-28 09:15:59 - Graded Piece #8 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:16:09 - Automatic detection started - IR beam triggered
+2025-08-28 09:16:19 - Graded Piece #9 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:16:49 - Automatic detection started - IR beam triggered
+2025-08-28 09:17:09 - Graded Piece #10 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:17:14 - Automatic detection started - IR beam triggered
+2025-08-28 09:17:19 - Graded Piece #11 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:17:24 - Automatic detection started - IR beam triggered
+2025-08-28 09:17:34 - Graded Piece #12 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:18:10 - Automatic detection started - IR beam triggered
+2025-08-28 09:18:15 - Graded Piece #13 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:18:19 - Automatic detection started - IR beam triggered
+2025-08-28 09:18:30 - Graded Piece #14 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:18:35 - Automatic detection started - IR beam triggered
+2025-08-28 09:18:50 - Graded Piece #15 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:19:15 - Automatic detection started - IR beam triggered
+2025-08-28 09:19:25 - Graded Piece #16 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:19:30 - Automatic detection started - IR beam triggered
+2025-08-28 09:19:35 - Graded Piece #17 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:19:45 - Automatic detection started - IR beam triggered
+2025-08-28 09:19:50 - Graded Piece #18 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:20:00 - Automatic detection started - IR beam triggered
+2025-08-28 09:20:05 - Graded Piece #19 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:20:20 - Automatic detection started - IR beam triggered
+2025-08-28 09:20:30 - Graded Piece #20 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:20:35 - Automatic detection started - IR beam triggered
+2025-08-28 09:20:50 - Graded Piece #21 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:21:00 - Automatic detection started - IR beam triggered
+2025-08-28 09:21:10 - Graded Piece #22 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:21:15 - Automatic detection started - IR beam triggered
+2025-08-28 09:21:20 - Graded Piece #23 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:21:25 - Automatic detection started - IR beam triggered
+2025-08-28 09:21:31 - Graded Piece #24 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:21:36 - Automatic detection started - IR beam triggered
+2025-08-28 09:21:41 - Graded Piece #25 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:22:01 - Automatic detection started - IR beam triggered
+2025-08-28 09:22:16 - Graded Piece #26 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:22:21 - Automatic detection started - IR beam triggered
+2025-08-28 09:22:26 - Graded Piece #27 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:22:36 - Automatic detection started - IR beam triggered
+2025-08-28 09:22:46 - Graded Piece #28 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:22:51 - Automatic detection started - IR beam triggered
+2025-08-28 09:23:06 - Graded Piece #29 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:23:21 - Automatic detection started - IR beam triggered
+2025-08-28 09:23:26 - Graded Piece #30 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:23:31 - Automatic detection started - IR beam triggered
+2025-08-28 09:23:51 - Graded Piece #31 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:23:56 - Automatic detection started - IR beam triggered
+2025-08-28 09:24:06 - Graded Piece #32 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:24:11 - Automatic detection started - IR beam triggered
+2025-08-28 09:24:26 - Graded Piece #33 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:24:36 - Automatic detection started - IR beam triggered
+2025-08-28 09:24:47 - Graded Piece #34 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:24:57 - Automatic detection started - IR beam triggered
+2025-08-28 09:25:02 - Graded Piece #35 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:25:12 - Automatic detection started - IR beam triggered
+2025-08-28 09:55:16 - Automatic detection started - IR beam triggered
+2025-08-28 09:55:17 - Graded Piece #1 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:55:19 - Graded Piece #2 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:55:21 - Graded Piece #3 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:55:30 - Graded Piece #4 as G2-2 -> Arduino Cmd: 2
+2025-08-28 09:55:33 - Graded Piece #5 as G2-2 -> Arduino Cmd: 2
+2025-08-28 09:55:41 - Automatic detection started - IR beam triggered
+2025-08-28 09:55:46 - Graded Piece #6 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:55:49 - Graded Piece #7 as G2-2 -> Arduino Cmd: 2
+2025-08-28 09:55:52 - Graded Piece #8 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:55:56 - Automatic detection started - IR beam triggered
+2025-08-28 09:56:01 - Graded Piece #9 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:56:03 - Graded Piece #10 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:56:05 - Graded Piece #11 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:56:07 - Graded Piece #12 as G2-2 -> Arduino Cmd: 2
+2025-08-28 09:56:09 - Graded Piece #13 as G2-2 -> Arduino Cmd: 2
+2025-08-28 09:56:11 - Automatic detection started - IR beam triggered
+2025-08-28 09:56:12 - Graded Piece #14 as G2-2 -> Arduino Cmd: 2
+2025-08-28 09:56:14 - Graded Piece #15 as G2-3 -> Arduino Cmd: 2
+2025-08-28 09:56:16 - Graded Piece #16 as G2-3 -> Arduino Cmd: 2
+2025-08-28 09:56:16 - Graded Piece #17 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:56:18 - Graded Piece #18 as G2-2 -> Arduino Cmd: 2
+2025-08-28 09:56:20 - Graded Piece #19 as G2-2 -> Arduino Cmd: 2
+2025-08-28 09:56:22 - Graded Piece #20 as G2-2 -> Arduino Cmd: 2
+2025-08-28 09:56:31 - Automatic detection started - IR beam triggered
+2025-08-28 09:56:36 - Graded Piece #21 as G2-4 -> Arduino Cmd: 3
+2025-08-28 09:56:51 - Automatic detection started - IR beam triggered
+2025-08-28 09:57:01 - Graded Piece #22 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:04:00 - Graded Piece #1 as G2-2 -> Arduino Cmd: 2
+2025-08-28 10:11:46 - Graded Piece #1 as G2-1 -> Arduino Cmd: 1
+2025-08-28 10:11:48 - Graded Piece #2 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:11:50 - Graded Piece #3 as G2-3 -> Arduino Cmd: 2
+2025-08-28 10:15:32 - Graded Piece #1 as G2-2 -> Arduino Cmd: 2
+2025-08-28 10:15:35 - Graded Piece #2 as G2-2 -> Arduino Cmd: 2
+2025-08-28 10:15:37 - Graded Piece #3 as G2-2 -> Arduino Cmd: 2
+2025-08-28 10:15:39 - Graded Piece #4 as G2-2 -> Arduino Cmd: 2
+2025-08-28 10:16:42 - Graded Piece #5 as G2-2 -> Arduino Cmd: 2
+2025-08-28 10:16:44 - Graded Piece #6 as G2-2 -> Arduino Cmd: 2
+2025-08-28 10:16:46 - Graded Piece #7 as G2-2 -> Arduino Cmd: 2
+2025-08-28 10:16:48 - Graded Piece #8 as G2-2 -> Arduino Cmd: 2
+2025-08-28 10:16:50 - Graded Piece #9 as G2-2 -> Arduino Cmd: 2
+2025-08-28 10:16:53 - Graded Piece #10 as G2-3 -> Arduino Cmd: 2
+2025-08-28 10:16:55 - Graded Piece #11 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:16:57 - Graded Piece #12 as G2-2 -> Arduino Cmd: 2
+2025-08-28 10:16:59 - Graded Piece #13 as G2-2 -> Arduino Cmd: 2
+2025-08-28 10:17:01 - Graded Piece #14 as G2-2 -> Arduino Cmd: 2
+2025-08-28 10:17:04 - Graded Piece #15 as G2-2 -> Arduino Cmd: 2
+2025-08-28 10:17:06 - Graded Piece #16 as G2-2 -> Arduino Cmd: 2
+2025-08-28 10:17:08 - Graded Piece #17 as G2-1 -> Arduino Cmd: 1
+2025-08-28 10:17:10 - Graded Piece #18 as G2-1 -> Arduino Cmd: 1
+2025-08-28 10:17:12 - Graded Piece #19 as G2-2 -> Arduino Cmd: 2
+2025-08-28 10:17:14 - Graded Piece #20 as G2-2 -> Arduino Cmd: 2
+2025-08-28 10:17:54 - Graded Piece #21 as G2-2 -> Arduino Cmd: 2
+2025-08-28 10:17:57 - Graded Piece #22 as G2-2 -> Arduino Cmd: 2
+2025-08-28 10:18:00 - Graded Piece #23 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:18:02 - Graded Piece #24 as G2-2 -> Arduino Cmd: 2
+2025-08-28 10:18:04 - Graded Piece #25 as G2-1 -> Arduino Cmd: 1
+2025-08-28 10:18:06 - Graded Piece #26 as G2-2 -> Arduino Cmd: 2
+2025-08-28 10:18:09 - Graded Piece #27 as G2-3 -> Arduino Cmd: 2
+2025-08-28 10:18:11 - Graded Piece #28 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:18:13 - Graded Piece #29 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:24:01 - Graded Piece #1 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:24:03 - Graded Piece #2 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:24:06 - Graded Piece #3 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:24:09 - Graded Piece #4 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:24:11 - Graded Piece #5 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:24:13 - Graded Piece #6 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:24:15 - Graded Piece #7 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:24:17 - Graded Piece #8 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:24:20 - Graded Piece #9 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:24:22 - Graded Piece #10 as G2-2 -> Arduino Cmd: 2
+2025-08-28 10:24:24 - Graded Piece #11 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:24:26 - Graded Piece #12 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:24:28 - Graded Piece #13 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:33:47 - Graded Piece #1 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:33:50 - Graded Piece #2 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:33:52 - Graded Piece #3 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:33:54 - Graded Piece #4 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:34:03 - Graded Piece #5 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:34:05 - Graded Piece #6 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:34:07 - Graded Piece #7 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:34:09 - Graded Piece #8 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:34:11 - Graded Piece #9 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:34:14 - Graded Piece #10 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:34:16 - Graded Piece #11 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:36:37 - Graded Piece #1 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:36:39 - Graded Piece #2 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:36:41 - Graded Piece #3 as G2-2 -> Arduino Cmd: 2
+2025-08-28 10:36:43 - Graded Piece #4 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:36:45 - Graded Piece #5 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:36:48 - Graded Piece #6 as G2-2 -> Arduino Cmd: 2
+2025-08-28 10:43:22 - Graded Piece #1 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:43:24 - Graded Piece #2 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:43:26 - Graded Piece #3 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:43:29 - Graded Piece #4 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:43:31 - Graded Piece #5 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:43:33 - Graded Piece #6 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:43:35 - Graded Piece #7 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:43:37 - Graded Piece #8 as G2-2 -> Arduino Cmd: 2
+2025-08-28 10:43:39 - Graded Piece #9 as G2-2 -> Arduino Cmd: 2
+2025-08-28 10:43:42 - Graded Piece #10 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:43:44 - Graded Piece #11 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:43:46 - Graded Piece #12 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:43:48 - Graded Piece #13 as G2-2 -> Arduino Cmd: 2
+2025-08-28 10:43:51 - Graded Piece #14 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:43:53 - Graded Piece #15 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:53:28 - Graded Piece #1 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:53:30 - Graded Piece #2 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:53:32 - Graded Piece #3 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:53:34 - Graded Piece #4 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:53:36 - Graded Piece #5 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:53:38 - Graded Piece #6 as G2-2 -> Arduino Cmd: 2
+2025-08-28 10:53:41 - Graded Piece #7 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:53:43 - Graded Piece #8 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:53:45 - Graded Piece #9 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:53:47 - Graded Piece #10 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:53:49 - Graded Piece #11 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:53:51 - Graded Piece #12 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:53:53 - Graded Piece #13 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:53:56 - Graded Piece #14 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:53:58 - Graded Piece #15 as G2-2 -> Arduino Cmd: 2
+2025-08-28 10:54:00 - Graded Piece #16 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:54:02 - Graded Piece #17 as G2-2 -> Arduino Cmd: 2
+2025-08-28 10:54:04 - Graded Piece #18 as G2-3 -> Arduino Cmd: 2
+2025-08-28 10:54:06 - Graded Piece #19 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:54:08 - Graded Piece #20 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:54:11 - Graded Piece #21 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:54:13 - Graded Piece #22 as G2-2 -> Arduino Cmd: 2
+2025-08-28 10:54:15 - Graded Piece #23 as G2-2 -> Arduino Cmd: 2
+2025-08-28 10:54:17 - Graded Piece #24 as G2-2 -> Arduino Cmd: 2
+2025-08-28 10:54:19 - Graded Piece #25 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:54:22 - Graded Piece #26 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:54:24 - Graded Piece #27 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:54:26 - Graded Piece #28 as G2-4 -> Arduino Cmd: 3
+2025-08-28 10:54:28 - Graded Piece #29 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:00:00 - Graded Piece #1 as G2-2 -> Arduino Cmd: 2
+2025-08-28 11:00:02 - Graded Piece #2 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:00:05 - Graded Piece #3 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:00:07 - Graded Piece #4 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:00:09 - Graded Piece #5 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:00:58 - Graded Piece #6 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:01:00 - Graded Piece #7 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:01:02 - Graded Piece #8 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:01:05 - Graded Piece #9 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:01:07 - Graded Piece #10 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:01:09 - Graded Piece #11 as G2-2 -> Arduino Cmd: 2
+2025-08-28 11:01:11 - Graded Piece #12 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:01:14 - Graded Piece #13 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:01:16 - Graded Piece #14 as G2-1 -> Arduino Cmd: 2
+2025-08-28 11:01:19 - Graded Piece #15 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:01:21 - Graded Piece #16 as G2-1 -> Arduino Cmd: 2
+2025-08-28 11:01:23 - Graded Piece #17 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:01:26 - Graded Piece #18 as G2-2 -> Arduino Cmd: 2
+2025-08-28 11:01:28 - Graded Piece #19 as G2-3 -> Arduino Cmd: 2
+2025-08-28 11:01:30 - Graded Piece #20 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:01:32 - Graded Piece #21 as G2-2 -> Arduino Cmd: 2
+2025-08-28 11:01:34 - Graded Piece #22 as G2-3 -> Arduino Cmd: 2
+2025-08-28 11:01:36 - Graded Piece #23 as G2-2 -> Arduino Cmd: 2
+2025-08-28 11:01:38 - Graded Piece #24 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:01:40 - Graded Piece #25 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:01:43 - Graded Piece #26 as G2-2 -> Arduino Cmd: 2
+2025-08-28 11:01:45 - Graded Piece #27 as G2-2 -> Arduino Cmd: 2
+2025-08-28 11:01:47 - Graded Piece #28 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:01:49 - Graded Piece #29 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:01:52 - Graded Piece #30 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:01:54 - Graded Piece #31 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:01:56 - Graded Piece #32 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:01:58 - Graded Piece #33 as G2-2 -> Arduino Cmd: 2
+2025-08-28 11:02:00 - Graded Piece #34 as G2-2 -> Arduino Cmd: 2
+2025-08-28 11:02:02 - Graded Piece #35 as G2-2 -> Arduino Cmd: 2
+2025-08-28 11:02:04 - Graded Piece #36 as G2-2 -> Arduino Cmd: 2
+2025-08-28 11:02:06 - Graded Piece #37 as G2-2 -> Arduino Cmd: 2
+2025-08-28 11:16:47 - Graded Piece #1 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:17:11 - Graded Piece #2 as G2-2 -> Arduino Cmd: 2
+2025-08-28 11:27:04 - Graded Piece #1 as G2-2 -> Arduino Cmd: 2
+2025-08-28 11:27:06 - Graded Piece #2 as G2-3 -> Arduino Cmd: 2
+2025-08-28 11:27:13 - Graded Piece #3 as G2-2 -> Arduino Cmd: 2
+2025-08-28 11:27:15 - Graded Piece #4 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:27:17 - Graded Piece #5 as G2-3 -> Arduino Cmd: 2
+2025-08-28 11:27:20 - Graded Piece #6 as G2-2 -> Arduino Cmd: 2
+2025-08-28 11:27:24 - Graded Piece #7 as G2-3 -> Arduino Cmd: 2
+2025-08-28 11:27:26 - Graded Piece #8 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:27:28 - Graded Piece #9 as G2-2 -> Arduino Cmd: 2
+2025-08-28 11:27:31 - Graded Piece #10 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:27:33 - Graded Piece #11 as G2-2 -> Arduino Cmd: 2
+2025-08-28 11:27:35 - Graded Piece #12 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:27:37 - Graded Piece #13 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:28:20 - Graded Piece #14 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:28:22 - Graded Piece #15 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:40:35 - Graded Piece #1 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:40:37 - Graded Piece #2 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:40:39 - Graded Piece #3 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:40:42 - Graded Piece #4 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:40:54 - Graded Piece #5 as G2-1 -> Arduino Cmd: 2
+2025-08-28 11:40:56 - Graded Piece #6 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:40:58 - Graded Piece #7 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:41:00 - Graded Piece #8 as G2-1 -> Arduino Cmd: 2
+2025-08-28 11:41:02 - Graded Piece #9 as G2-1 -> Arduino Cmd: 2
+2025-08-28 11:41:05 - Graded Piece #10 as G2-1 -> Arduino Cmd: 2
+2025-08-28 11:41:07 - Graded Piece #11 as G2-3 -> Arduino Cmd: 2
+2025-08-28 11:41:09 - Graded Piece #12 as G2-2 -> Arduino Cmd: 2
+2025-08-28 11:41:11 - Graded Piece #13 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:41:14 - Graded Piece #14 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:56:16 - Graded Piece #15 as G2-3 -> Arduino Cmd: 2
+2025-08-28 11:56:18 - Graded Piece #16 as G2-3 -> Arduino Cmd: 2
+2025-08-28 11:56:20 - Graded Piece #17 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:56:23 - Graded Piece #18 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:56:25 - Graded Piece #19 as G2-2 -> Arduino Cmd: 2
+2025-08-28 11:56:27 - Graded Piece #20 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:56:29 - Graded Piece #21 as G2-2 -> Arduino Cmd: 2
+2025-08-28 11:56:33 - Graded Piece #22 as G2-2 -> Arduino Cmd: 2
+2025-08-28 11:56:35 - Graded Piece #23 as G2-2 -> Arduino Cmd: 2
+2025-08-28 11:56:37 - Graded Piece #24 as G2-3 -> Arduino Cmd: 2
+2025-08-28 11:56:39 - Graded Piece #25 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:56:41 - Graded Piece #26 as G2-4 -> Arduino Cmd: 3
+2025-08-28 11:56:44 - Graded Piece #27 as G2-2 -> Arduino Cmd: 2
+2025-08-28 11:56:46 - Graded Piece #28 as G2-2 -> Arduino Cmd: 2
+2025-08-29 15:17:55 - Graded Piece #1 as G2-4 -> Arduino Cmd: 3
+2025-08-29 15:17:57 - Graded Piece #2 as G2-4 -> Arduino Cmd: 3
+2025-08-29 15:17:59 - Graded Piece #3 as G2-4 -> Arduino Cmd: 3
+2025-08-29 15:18:01 - Graded Piece #4 as G2-4 -> Arduino Cmd: 3
+2025-08-29 15:18:03 - Graded Piece #5 as G2-4 -> Arduino Cmd: 3
+2025-08-29 15:18:07 - Graded Piece #6 as G2-1 -> Arduino Cmd: 2
+2025-08-29 15:18:11 - Graded Piece #7 as G2-2 -> Arduino Cmd: 2
+2025-08-29 15:18:11 - Graded Piece #8 as G2-2 -> Arduino Cmd: 2
+2025-08-29 15:18:17 - Graded Piece #9 as G2-2 -> Arduino Cmd: 2
+2025-08-29 15:18:20 - Graded Piece #10 as G2-2 -> Arduino Cmd: 2
+2025-08-29 15:18:27 - Graded Piece #11 as G2-3 -> Arduino Cmd: 2
+2025-08-29 15:18:42 - Graded Piece #12 as G2-3 -> Arduino Cmd: 2
+2025-08-29 15:18:45 - Graded Piece #13 as G2-2 -> Arduino Cmd: 2
+2025-08-29 15:18:48 - Graded Piece #14 as G2-2 -> Arduino Cmd: 2
+2025-08-29 15:18:50 - Graded Piece #15 as G2-3 -> Arduino Cmd: 2
+2025-08-29 15:19:02 - Graded Piece #16 as G2-2 -> Arduino Cmd: 2
+2025-08-29 15:19:06 - Graded Piece #17 as G2-3 -> Arduino Cmd: 2
+2025-08-29 15:19:10 - Graded Piece #18 as G2-3 -> Arduino Cmd: 2
+2025-08-29 15:19:13 - Graded Piece #19 as G2-3 -> Arduino Cmd: 2
+2025-08-29 15:19:16 - Graded Piece #20 as G2-4 -> Arduino Cmd: 3
+2025-08-29 15:19:19 - Graded Piece #21 as G2-3 -> Arduino Cmd: 2
+2025-08-29 15:19:21 - Graded Piece #22 as G2-3 -> Arduino Cmd: 2
+2025-08-29 15:19:31 - Graded Piece #23 as G2-3 -> Arduino Cmd: 2
+2025-08-29 15:22:29 - Graded Piece #1 as G2-4 -> Arduino Cmd: 3
+2025-08-29 15:22:34 - Graded Piece #2 as G2-4 -> Arduino Cmd: 3
+2025-08-29 15:22:36 - Graded Piece #3 as G2-4 -> Arduino Cmd: 3
+2025-08-29 15:22:38 - Graded Piece #4 as G2-4 -> Arduino Cmd: 3
+2025-08-29 15:22:40 - Graded Piece #5 as G2-4 -> Arduino Cmd: 3
+2025-08-29 15:22:42 - Graded Piece #6 as G2-4 -> Arduino Cmd: 3
+2025-08-29 15:23:25 - Graded Piece #1 as G2-3 -> Arduino Cmd: 2
+2025-08-29 15:23:29 - Graded Piece #2 as G2-2 -> Arduino Cmd: 2
+2025-08-29 15:23:29 - Graded Piece #3 as G2-2 -> Arduino Cmd: 2
+2025-08-29 15:23:32 - Graded Piece #4 as G2-2 -> Arduino Cmd: 2
+2025-08-29 15:23:34 - Graded Piece #5 as G2-3 -> Arduino Cmd: 2
+2025-08-29 15:23:36 - Graded Piece #6 as G2-4 -> Arduino Cmd: 3
+2025-08-29 15:29:29 - Graded Piece #1 as G2-3 -> Arduino Cmd: 2
+2025-08-29 15:29:31 - Graded Piece #2 as G2-3 -> Arduino Cmd: 2
+2025-08-29 15:31:32 - Graded Piece #1 as G2-3 -> Arduino Cmd: 2
+2025-08-29 15:31:34 - Graded Piece #2 as G2-3 -> Arduino Cmd: 2
+2025-08-29 15:31:40 - Graded Piece #3 as G2-2 -> Arduino Cmd: 2
+2025-08-29 15:31:42 - Graded Piece #4 as G2-2 -> Arduino Cmd: 2
+2025-08-29 15:31:44 - Graded Piece #5 as G2-2 -> Arduino Cmd: 2
+2025-08-29 15:31:46 - Graded Piece #6 as G2-2 -> Arduino Cmd: 2
+2025-08-29 15:38:43 - Graded Piece #1 as G2-2 -> Arduino Cmd: 2
+2025-08-29 15:38:49 - Graded Piece #2 as G2-2 -> Arduino Cmd: 2
+2025-08-29 15:44:16 - Graded Piece #1 as G2-2 -> Arduino Cmd: 2
+2025-08-29 15:52:34 - Graded Piece #1 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:05:49 - Graded Piece #1 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:05:51 - Graded Piece #2 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:05:53 - Graded Piece #3 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:05:55 - Graded Piece #4 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:06:02 - Graded Piece #5 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:06:02 - Graded Piece #6 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:13:55 - Graded Piece #1 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:13:57 - Graded Piece #2 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:14:00 - Graded Piece #3 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:14:02 - Graded Piece #4 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:14:04 - Graded Piece #5 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:14:06 - Graded Piece #6 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:14:08 - Graded Piece #7 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:14:10 - Graded Piece #8 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:14:12 - Graded Piece #9 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:14:15 - Graded Piece #10 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:14:17 - Graded Piece #11 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:14:19 - Graded Piece #12 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:14:21 - Graded Piece #13 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:14:23 - Graded Piece #14 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:14:25 - Graded Piece #15 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:14:32 - Graded Piece #16 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:14:32 - Graded Piece #17 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:14:34 - Graded Piece #18 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:14:36 - Graded Piece #19 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:14:38 - Graded Piece #20 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:14:40 - Graded Piece #21 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:14:42 - Graded Piece #22 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:14:44 - Graded Piece #23 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:14:47 - Graded Piece #24 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:14:49 - Graded Piece #25 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:14:51 - Graded Piece #26 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:14:53 - Graded Piece #27 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:14:55 - Graded Piece #28 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:14:57 - Graded Piece #29 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:15:01 - Graded Piece #30 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:15:03 - Graded Piece #31 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:15:05 - Graded Piece #32 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:15:07 - Graded Piece #33 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:15:09 - Graded Piece #34 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:18:27 - Graded Piece #1 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:18:29 - Graded Piece #2 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:18:32 - Graded Piece #3 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:18:34 - Graded Piece #4 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:18:36 - Graded Piece #5 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:18:38 - Graded Piece #6 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:18:40 - Graded Piece #7 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:18:42 - Graded Piece #8 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:18:44 - Graded Piece #9 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:18:46 - Graded Piece #10 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:18:48 - Graded Piece #11 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:18:50 - Graded Piece #12 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:18:52 - Graded Piece #13 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:18:55 - Graded Piece #14 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:18:57 - Graded Piece #15 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:19:00 - Graded Piece #16 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:19:02 - Graded Piece #17 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:22:50 - Graded Piece #1 as G2-3 -> Arduino Cmd: 2
+2025-08-29 16:22:54 - Graded Piece #2 as G2-3 -> Arduino Cmd: 2
+2025-08-29 16:22:57 - Graded Piece #3 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:23:00 - Graded Piece #4 as G2-3 -> Arduino Cmd: 2
+2025-08-29 16:28:02 - Graded Piece #1 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:28:04 - Graded Piece #2 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:28:06 - Graded Piece #3 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:28:09 - Graded Piece #4 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:28:11 - Graded Piece #5 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:28:13 - Graded Piece #6 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:28:15 - Graded Piece #7 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:28:17 - Graded Piece #8 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:28:20 - Graded Piece #9 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:28:22 - Graded Piece #10 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:28:24 - Graded Piece #11 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:28:26 - Graded Piece #12 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:28:28 - Graded Piece #13 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:28:30 - Graded Piece #14 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:28:33 - Graded Piece #15 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:28:35 - Graded Piece #16 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:28:37 - Graded Piece #17 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:28:39 - Graded Piece #18 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:28:41 - Graded Piece #19 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:35:33 - Graded Piece #1 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:35:37 - Graded Piece #2 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:35:39 - Graded Piece #3 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:35:42 - Graded Piece #4 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:35:44 - Graded Piece #5 as G2-3 -> Arduino Cmd: 2
+2025-08-29 16:35:46 - Graded Piece #6 as G2-3 -> Arduino Cmd: 2
+2025-08-29 16:35:48 - Graded Piece #7 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:35:50 - Graded Piece #8 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:35:53 - Graded Piece #9 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:35:55 - Graded Piece #10 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:35:57 - Graded Piece #11 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:35:59 - Graded Piece #12 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:36:01 - Graded Piece #13 as G2-1 -> Arduino Cmd: 2
+2025-08-29 16:36:06 - Graded Piece #14 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:36:08 - Graded Piece #15 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:36:10 - Graded Piece #16 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:36:13 - Graded Piece #17 as G2-3 -> Arduino Cmd: 2
+2025-08-29 16:36:15 - Graded Piece #18 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:36:17 - Graded Piece #19 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:36:19 - Graded Piece #20 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:36:21 - Graded Piece #21 as G2-3 -> Arduino Cmd: 2
+2025-08-29 16:36:24 - Graded Piece #22 as G2-3 -> Arduino Cmd: 2
+2025-08-29 16:36:26 - Graded Piece #23 as G2-3 -> Arduino Cmd: 2
+2025-08-29 16:36:28 - Graded Piece #24 as G2-3 -> Arduino Cmd: 2
+2025-08-29 16:36:30 - Graded Piece #25 as G2-3 -> Arduino Cmd: 2
+2025-08-29 16:36:32 - Graded Piece #26 as G2-3 -> Arduino Cmd: 2
+2025-08-29 16:36:34 - Graded Piece #27 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:36:36 - Graded Piece #28 as G2-3 -> Arduino Cmd: 2
+2025-08-29 16:36:38 - Graded Piece #29 as G2-3 -> Arduino Cmd: 2
+2025-08-29 16:36:41 - Graded Piece #30 as G2-3 -> Arduino Cmd: 2
+2025-08-29 16:36:43 - Graded Piece #31 as G2-3 -> Arduino Cmd: 2
+2025-08-29 16:37:14 - Graded Piece #32 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:37:16 - Graded Piece #33 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:37:23 - Graded Piece #34 as G2-3 -> Arduino Cmd: 2
+2025-08-29 16:37:26 - Graded Piece #35 as G2-1 -> Arduino Cmd: 2
+2025-08-29 16:37:29 - Graded Piece #36 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:37:31 - Graded Piece #37 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:37:33 - Graded Piece #38 as G2-3 -> Arduino Cmd: 2
+2025-08-29 16:37:40 - Graded Piece #39 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:37:40 - Graded Piece #40 as G2-3 -> Arduino Cmd: 2
+2025-08-29 16:37:42 - Graded Piece #41 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:37:44 - Graded Piece #42 as G2-3 -> Arduino Cmd: 2
+2025-08-29 16:38:10 - Graded Piece #43 as G2-3 -> Arduino Cmd: 2
+2025-08-29 16:38:12 - Graded Piece #44 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:38:14 - Graded Piece #45 as G2-3 -> Arduino Cmd: 2
+2025-08-29 16:41:07 - Graded Piece #46 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:41:09 - Graded Piece #47 as G2-1 -> Arduino Cmd: 2
+2025-08-29 16:41:12 - Graded Piece #48 as G2-1 -> Arduino Cmd: 2
+2025-08-29 16:41:15 - Graded Piece #49 as G2-1 -> Arduino Cmd: 2
+2025-08-29 16:41:17 - Graded Piece #50 as G2-1 -> Arduino Cmd: 2
+2025-08-29 16:46:56 - Graded Piece #1 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:46:58 - Graded Piece #2 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:47:00 - Graded Piece #3 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:47:02 - Graded Piece #4 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:47:04 - Graded Piece #5 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:47:07 - Graded Piece #6 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:47:09 - Graded Piece #7 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:47:12 - Graded Piece #8 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:47:14 - Graded Piece #9 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:47:16 - Graded Piece #10 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:47:18 - Graded Piece #11 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:47:20 - Graded Piece #12 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:47:23 - Graded Piece #13 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:47:25 - Graded Piece #14 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:47:27 - Graded Piece #15 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:47:29 - Graded Piece #16 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:47:31 - Graded Piece #17 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:47:33 - Graded Piece #18 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:47:35 - Graded Piece #19 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:47:37 - Graded Piece #20 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:47:39 - Graded Piece #21 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:47:42 - Graded Piece #22 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:47:44 - Graded Piece #23 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:47:46 - Graded Piece #24 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:47:48 - Graded Piece #25 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:47:50 - Graded Piece #26 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:47:53 - Graded Piece #27 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:47:55 - Graded Piece #28 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:47:57 - Graded Piece #29 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:47:59 - Graded Piece #30 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:48:01 - Graded Piece #31 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:48:03 - Graded Piece #32 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:48:05 - Graded Piece #33 as G2-3 -> Arduino Cmd: 2
+2025-08-29 16:48:07 - Graded Piece #34 as G2-3 -> Arduino Cmd: 2
+2025-08-29 16:48:09 - Graded Piece #35 as G2-3 -> Arduino Cmd: 2
+2025-08-29 16:48:12 - Graded Piece #36 as G2-3 -> Arduino Cmd: 2
+2025-08-29 16:48:14 - Graded Piece #37 as G2-3 -> Arduino Cmd: 2
+2025-08-29 16:48:16 - Graded Piece #38 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:48:18 - Graded Piece #39 as G2-3 -> Arduino Cmd: 2
+2025-08-29 16:48:20 - Graded Piece #40 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:48:22 - Graded Piece #41 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:48:24 - Graded Piece #42 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:48:26 - Graded Piece #43 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:48:29 - Graded Piece #44 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:48:31 - Graded Piece #45 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:48:33 - Graded Piece #46 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:48:35 - Graded Piece #47 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:48:37 - Graded Piece #48 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:48:39 - Graded Piece #49 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:48:41 - Graded Piece #50 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:48:43 - Graded Piece #51 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:48:46 - Graded Piece #52 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:48:48 - Graded Piece #53 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:48:50 - Graded Piece #54 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:48:52 - Graded Piece #55 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:48:54 - Graded Piece #56 as G2-3 -> Arduino Cmd: 2
+2025-08-29 16:48:56 - Graded Piece #57 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:48:58 - Graded Piece #58 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:49:00 - Graded Piece #59 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:49:02 - Graded Piece #60 as G2-3 -> Arduino Cmd: 2
+2025-08-29 16:49:05 - Graded Piece #61 as G2-3 -> Arduino Cmd: 2
+2025-08-29 16:49:07 - Graded Piece #62 as G2-3 -> Arduino Cmd: 2
+2025-08-29 16:49:09 - Graded Piece #63 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:49:11 - Graded Piece #64 as G2-3 -> Arduino Cmd: 2
+2025-08-29 16:49:13 - Graded Piece #65 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:49:15 - Graded Piece #66 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:49:17 - Graded Piece #67 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:49:20 - Graded Piece #68 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:49:22 - Graded Piece #69 as G2-3 -> Arduino Cmd: 2
+2025-08-29 16:49:24 - Graded Piece #70 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:49:26 - Graded Piece #71 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:49:28 - Graded Piece #72 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:49:30 - Graded Piece #73 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:49:37 - Graded Piece #74 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:49:37 - Graded Piece #75 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:49:39 - Graded Piece #76 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:49:41 - Graded Piece #77 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:49:43 - Graded Piece #78 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:49:45 - Graded Piece #79 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:49:47 - Graded Piece #80 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:49:49 - Graded Piece #81 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:49:51 - Graded Piece #82 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:51:52 - Graded Piece #1 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:51:54 - Graded Piece #2 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:51:57 - Graded Piece #3 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:51:59 - Graded Piece #4 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:52:01 - Graded Piece #5 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:53:05 - Graded Piece #6 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:53:07 - Graded Piece #7 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:53:10 - Graded Piece #8 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:53:12 - Graded Piece #9 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:53:14 - Graded Piece #10 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:53:16 - Graded Piece #11 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:53:18 - Graded Piece #12 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:53:20 - Graded Piece #13 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:53:22 - Graded Piece #14 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:53:25 - Graded Piece #15 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:53:27 - Graded Piece #16 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:53:29 - Graded Piece #17 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:53:31 - Graded Piece #18 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:53:34 - Graded Piece #19 as G2-3 -> Arduino Cmd: 2
+2025-08-29 16:53:36 - Graded Piece #20 as G2-3 -> Arduino Cmd: 2
+2025-08-29 16:53:38 - Graded Piece #21 as G2-3 -> Arduino Cmd: 2
+2025-08-29 16:53:40 - Graded Piece #22 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:53:43 - Graded Piece #23 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:53:46 - Graded Piece #24 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:53:53 - Graded Piece #25 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:53:55 - Graded Piece #26 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:55:39 - Graded Piece #27 as G2-3 -> Arduino Cmd: 2
+2025-08-29 16:55:46 - Graded Piece #28 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:55:46 - Graded Piece #29 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:55:48 - Graded Piece #30 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:55:50 - Graded Piece #31 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:55:52 - Graded Piece #32 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:55:54 - Graded Piece #33 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:55:57 - Graded Piece #34 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:55:59 - Graded Piece #35 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:56:01 - Graded Piece #36 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:56:04 - Graded Piece #37 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:56:06 - Graded Piece #38 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:59:34 - Graded Piece #1 as G2-3 -> Arduino Cmd: 2
+2025-08-29 16:59:37 - Graded Piece #2 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:59:41 - Graded Piece #3 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:59:47 - Graded Piece #4 as G2-4 -> Arduino Cmd: 3
+2025-08-29 16:59:49 - Graded Piece #5 as G2-1 -> Arduino Cmd: 2
+2025-08-29 16:59:51 - Graded Piece #6 as G2-2 -> Arduino Cmd: 2
+2025-08-29 16:59:53 - Graded Piece #7 as G2-4 -> Arduino Cmd: 3
+2025-08-29 17:00:00 - Graded Piece #8 as G2-2 -> Arduino Cmd: 2
+2025-08-29 17:00:00 - Graded Piece #9 as G2-1 -> Arduino Cmd: 2
+2025-08-29 17:00:02 - Graded Piece #10 as G2-4 -> Arduino Cmd: 3
+2025-08-29 17:00:04 - Graded Piece #11 as G2-3 -> Arduino Cmd: 2
+2025-08-29 17:00:07 - Graded Piece #12 as G2-3 -> Arduino Cmd: 2
+2025-08-29 17:00:09 - Graded Piece #13 as G2-1 -> Arduino Cmd: 2
+2025-08-29 17:00:16 - Graded Piece #14 as G2-1 -> Arduino Cmd: 2
+2025-08-29 17:00:16 - Graded Piece #15 as G2-1 -> Arduino Cmd: 2
+2025-08-29 17:00:18 - Graded Piece #16 as G2-1 -> Arduino Cmd: 2
+2025-08-29 17:00:20 - Graded Piece #17 as G2-3 -> Arduino Cmd: 2
+2025-08-29 17:00:22 - Graded Piece #18 as G2-2 -> Arduino Cmd: 2
+2025-08-29 17:00:25 - Graded Piece #19 as G2-4 -> Arduino Cmd: 3
+2025-08-29 17:00:27 - Graded Piece #20 as G2-2 -> Arduino Cmd: 2
+2025-08-29 17:00:33 - Graded Piece #21 as G2-4 -> Arduino Cmd: 3
+2025-08-29 17:00:33 - Graded Piece #22 as G2-3 -> Arduino Cmd: 2
+2025-08-29 17:00:42 - Graded Piece #23 as G2-3 -> Arduino Cmd: 2
+2025-08-29 17:00:44 - Graded Piece #24 as G2-2 -> Arduino Cmd: 2
+2025-08-29 17:01:17 - Graded Piece #25 as G2-3 -> Arduino Cmd: 2
+2025-08-29 17:01:19 - Graded Piece #26 as G2-3 -> Arduino Cmd: 2
+2025-08-29 17:01:21 - Graded Piece #27 as G2-4 -> Arduino Cmd: 3
+2025-08-29 17:01:46 - Graded Piece #28 as G2-3 -> Arduino Cmd: 2
+2025-08-29 17:01:48 - Graded Piece #29 as G2-3 -> Arduino Cmd: 2
+2025-08-29 17:01:50 - Graded Piece #30 as G2-4 -> Arduino Cmd: 3
+2025-08-29 17:01:57 - Graded Piece #31 as G2-4 -> Arduino Cmd: 3
+2025-08-29 17:01:57 - Graded Piece #32 as G2-4 -> Arduino Cmd: 3
+2025-08-29 17:02:02 - Graded Piece #33 as G2-3 -> Arduino Cmd: 2
+2025-08-29 17:03:05 - Graded Piece #34 as G2-4 -> Arduino Cmd: 3
+2025-08-29 17:03:07 - Graded Piece #35 as G2-4 -> Arduino Cmd: 3
+2025-08-29 17:03:10 - Graded Piece #36 as G2-4 -> Arduino Cmd: 3
+2025-08-29 17:03:19 - Graded Piece #37 as G2-3 -> Arduino Cmd: 2
+2025-08-29 17:04:20 - Graded Piece #1 as G2-4 -> Arduino Cmd: 3
+2025-08-29 17:10:20 - Graded Piece #2 as G2-3 -> Arduino Cmd: 2
+2025-08-29 17:10:22 - Graded Piece #3 as G2-4 -> Arduino Cmd: 3
+2025-08-29 17:10:24 - Graded Piece #4 as G2-4 -> Arduino Cmd: 3
+2025-08-29 17:10:31 - Graded Piece #5 as G2-4 -> Arduino Cmd: 3
+2025-09-24 09:40:15 - Graded Piece #1 as G2-2 -> Arduino Cmd: 2
+2025-09-24 09:40:18 - Graded Piece #2 as G2-2 -> Arduino Cmd: 2
+2025-09-24 09:40:20 - Graded Piece #3 as G2-2 -> Arduino Cmd: 2
+2025-09-24 09:40:22 - Graded Piece #4 as G2-2 -> Arduino Cmd: 2
+2025-09-24 09:40:24 - Graded Piece #5 as G2-2 -> Arduino Cmd: 2
+2025-09-24 09:40:26 - Graded Piece #6 as G2-2 -> Arduino Cmd: 2
+2025-09-24 09:40:28 - Graded Piece #7 as G2-1 -> Arduino Cmd: 2
